@@ -12,6 +12,10 @@ https://developers.google.com/search/docs/appearance/structured-data/product?hl=
 構造化データについて
 https://blog.8bit.co.jp/?p=15373
 ```
+```
+グーグルサーチコンソール
+https://search.google.com/search-console?resource_id=https://hashsan.github.io/nenreiga/
+```
 
 ```
 スキーマorgは知ってるかい？
