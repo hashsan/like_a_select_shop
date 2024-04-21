@@ -5,6 +5,13 @@
 https://affiliate.rakuten.co.jp/recommend/major/?l-id=af_header_search_04
 ```
 ```
+ｔｉｔｉｖａｔｅ
+ダブルスタンダードクロージング直営公式オンライン【Night STORE】（12-0920）
+女性に大人気！リピータ多数！☆DHOLIC☆【ディーホリック-】(22-1214)
+ＲＯＡＤＧＥＴ＿ＢＵＳＩＮＥＳＳ＿ＰＴＥ．ＬＴＤ．
+ファッション＆ライフスタイルの総合ネット通販SHEIN（シーイン）(22-0701)
+```
+```
 商品データをグーグルに送信
 https://developers.google.com/search/docs/appearance/structured-data/product?hl=ja
 ```
